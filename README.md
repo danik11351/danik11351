@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 my name is Daniel and im a front-end developer
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <!--
 **danik11351/danik11351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
