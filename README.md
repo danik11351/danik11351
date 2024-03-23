@@ -9,6 +9,9 @@ Technologies i'm using:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,bootstrap,github,htmx,npm,php,react,ts)](https://skillicons.dev)
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danik11351)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **danik11351/danik11351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
