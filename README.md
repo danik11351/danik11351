@@ -5,6 +5,8 @@ I thrive in collaborative environments, where my communication skills and adapta
 
 
 Technologies i'm using:
+
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,apple,bootstrap,github,htmx,npm,php,react,ts)](https://skillicons.dev)
 
 <!--
